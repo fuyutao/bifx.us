@@ -22,6 +22,6 @@ f.close()
 if nstart>0: sys.stdout.write(chr+":"+str(nstart)+"-"+str(length)+"\n")
 
 #def main():
-
+#
 #if __name__ == '__main__':
 #    main()
